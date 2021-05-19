@@ -10,18 +10,7 @@ def main():
 
     put_markdown("""# Body Mass Index
     
-    [Body mass index](https://en.wikipedia.org/wiki/Body_mass_index) (BMI) is a measure of body fat based on height and weight that applies to adult men and women. 
-    
-    BMI Categories:
-    
-    | Category             | BMI           |
-    | -------------------- | ------------- |
-    | Severely underweight | BMI<14.9      |
-    | Underweight          | 14.9≤BMI<18.4 |
-    | Normal               | 18.4≤BMI<22.9 |
-    | Overweight           | 22.9≤BMI<27.5 |
-    | Moderately obese     | 27.5≤BMI<40   |
-    | Severely obese       | BMI≥40        |
+    [Body mass index](https://en.wikipedia.org/wiki/Body_mass_index) Click here to know about BMI.
     
     ## BMI calculation
     """, strip_indent=4)
